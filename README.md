@@ -27,3 +27,18 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+html檔放置於文件根目錄
+vue根組件放置於src資料夾以及vue組件放置於components資料夾
+
+
+
+index.html(對應App.vue)為首頁 : Corrusel1 -> 
+
+Nav.vue為每頁上方導航
+
+Component1.vue為每頁底部頁尾
+
+
+
