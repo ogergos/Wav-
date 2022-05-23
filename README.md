@@ -86,6 +86,12 @@ Item3.vue : 將商品內容透過props傳遞給父組件，點擊取消訂單按
 
 brand.html(App19.vue)、privacy.html(App20.vue)、service.html(App21.vue) : 品牌故事 、 隱私權條款 、 聯絡客服文檔
 
+響應式設計 : 在視窗寬度(1200px)時切換斷點， Nav.vue : 男裝、女裝變為flex column排列，導航欄改為直向排列
+                                         Corrusel1.vue : 輪播圖寬度變為100%
+                                         Item1.vue : margin增加
+                                         Component1.vue : 變為 flex column排列
+                                         Brand.html : 縮小字體
+                                         shoppingcar.html(App3.vue)、order.html(App4.vue) : 寬度改為100%，縮小字體、margin
 
 
 
